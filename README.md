@@ -25,25 +25,25 @@ TextTangle is an advanced Wordle which provides a seamless and interactive exper
 
 ## 🚀 Live Demo
 
-Experience TextTangle live here: [**TextTangle**](https://www.google.com/search?q=https://theeccentriccoder.github.io/TextTangle)
+Experience TextTangle live here: [**TextTangle**](https://www.google.com/search?q=https://theeccentriccoder01.github.io/TextTangle)
 
  <div align="center">
  <p>
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat)
-![Visitors](https://api.visitorbadge.io/api/Visitors?path=theeccentriccoder%2FTextTangle%20&countColor=%23263759&style=flat)
-![GitHub Forks](https://img.shields.io/github/forks/theeccentriccoder/TextTangle)
-![GitHub Repo Stars](https://img.shields.io/github/stars/theeccentriccoder/TextTangle)
-![GitHub Contributors](https://img.shields.io/github/contributors/theeccentriccoder/TextTangle)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/theeccentriccoder/TextTangle)
-![GitHub Repo Size](https://img.shields.io/github/repo-size/theeccentriccoder/TextTangle)
-![GitHub Total Lines](https://sloc.xyz/github/theeccentriccoder/TextTangle)
-![Github](https://img.shields.io/github/license/theeccentriccoder/TextTangle)
-![GitHub Issues](https://img.shields.io/github/issues/theeccentriccoder/TextTangle)
-![GitHub Closed Issues](https://img.shields.io/github/issues-closed-raw/theeccentriccoder/TextTangle)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/theeccentriccoder/TextTangle)
-![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/theeccentriccoder/TextTangle)
+![Visitors](https://api.visitorbadge.io/api/Visitors?path=theeccentriccoder01%2FTextTangle%20&countColor=%23263759&style=flat)
+![GitHub Forks](https://img.shields.io/github/forks/theeccentriccoder01/TextTangle)
+![GitHub Repo Stars](https://img.shields.io/github/stars/theeccentriccoder01/TextTangle)
+![GitHub Contributors](https://img.shields.io/github/contributors/theeccentriccoder01/TextTangle)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/theeccentriccoder01/TextTangle)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/theeccentriccoder01/TextTangle)
+![GitHub Total Lines](https://sloc.xyz/github/theeccentriccoder01/TextTangle)
+![Github](https://img.shields.io/github/license/theeccentriccoder01/TextTangle)
+![GitHub Issues](https://img.shields.io/github/issues/theeccentriccoder01/TextTangle)
+![GitHub Closed Issues](https://img.shields.io/github/issues-closed-raw/theeccentriccoder01/TextTangle)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/theeccentriccoder01/TextTangle)
+![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/theeccentriccoder01/TextTangle)
  </p>
  </div>
 
@@ -77,7 +77,7 @@ For a detailed walkthrough of TextTangle's features and how to use them, check o
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/theeccentriccoder/TextTangle.git
+    git clone https://github.com/theeccentriccoder01/TextTangle.git
     ```
 
 2.  **Navigate to the project directory:**
@@ -127,7 +127,7 @@ This project is open-source and available under the MIT License.
 
 ## 📞 Contact
 
-Developed by [Eccentric Explorer](https://theeccentriccoder.github.io/Me)
+Developed by [Eccentric Explorer](https://theeccentriccoder01.github.io/Me)
 
 Feel free to reach out with any questions or feedback\!
 
